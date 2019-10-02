@@ -1,0 +1,17 @@
+.container{
+  text-align: center;
+
+}
+.class-time{
+  border: 1px solid black;
+  display: inline-block;
+  font-size: 4em;
+}
+.class-hour{
+color:gray;
+text-align: center;
+display: flex;
+justify-content: space-around;
+
+
+}
